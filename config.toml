@@ -1,8 +1,8 @@
-baseurl = "https://example.com/"
-title = "SiteTitle"
+baseurl = "https://relaxed-pare-01a2ee.netlify.app/"
+title = "ねこになりたい"
 theme = "hugo_theme_robust"
 
-googleAnalytics = "UA-XXXXXXXX-XX" # Optional
+# googleAnalytics = "UA-XXXXXXXX-XX" # Optional
 disqusShortname = "XYW"
 
 [params]
@@ -19,7 +19,7 @@ enableHighlight = true # highlight.js option
 thumbnail = "images/author.jpg"
 name = "John Doe"
 description = "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p><p>sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>"
-facebook = "https://www.facebook.com/daisuke.tsuji.735"
+# facebook = "https://www.facebook.com/daisuke.tsuji.735"
 twitter = "https://twitter.com/dim0627"
 github = "https://github.com/dim0627"
 
