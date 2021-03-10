@@ -1,12 +1,12 @@
 baseurl = "https://relaxed-pare-01a2ee.netlify.app/"
-title = "ねこになりたい"
+title = "ちーずな雑記"
 theme = "hugo_theme_robust"
 
 # googleAnalytics = "UA-XXXXXXXX-XX" # Optional
 disqusShortname = "XYW"
 
 [params]
-description = "This is site description"
+description = "ねこになりたい"
 dateformat = "Jan 2, 2006" # Optional
 # Fonts settings.
 googlefonts = "https://fonts.googleapis.com/css?family=Lobster|Lato:400,700" # Optional, Include google fonts.
@@ -17,11 +17,11 @@ enableHighlight = true # highlight.js option
 
 [params.author]
 thumbnail = "images/author.jpg"
-name = "John Doe"
-description = "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p><p>sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>"
+name = "cheeseNA"
+description = "<a href='https://www.ee.t.u-tokyo.ac.jp/j/'>EEIC</a> 2年生です. コンピュータサイエンス等勉強してます."
 # facebook = "https://www.facebook.com/daisuke.tsuji.735"
-twitter = "https://twitter.com/dim0627"
-github = "https://github.com/dim0627"
+twitter = "https://twitter.com/_cheeseNA"
+github = "https://github.com/cheeseNA"
 
 [outputs]
 page = [ "HTML", "AMP" ] # if you want AMP enable.
