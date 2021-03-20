@@ -3,7 +3,7 @@ title = "ちーずな雑記"
 theme = "hugo_theme_robust"
 
 # googleAnalytics = "UA-XXXXXXXX-XX" # Optional
-disqusShortname = "XYW"
+disqusShortname = "cheesena"
 
 [params]
 description = "ねこになりたい"
