@@ -2,7 +2,7 @@ baseurl = "https://www.cheesena.dev/"
 title = "ちーずな雑記"
 theme = "hugo_theme_robust"
 
-googleAnalytics = "UA-192694720-1"
+googleAnalytics = "G-DRH61PDPF6"
 disqusShortname = "cheesena"
 
 [params]
